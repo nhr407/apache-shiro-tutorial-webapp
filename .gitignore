@@ -3,3 +3,15 @@
 *.iws
 .idea/
 target/
+*.class
+
+#Package Files#
+*.jar
+*.war
+*.ear
+
+#ignore eclipse files
+.project
+.classpath
+.settings/
+.metadata
